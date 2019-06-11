@@ -1,0 +1,7 @@
+{
+    "businessWorkInterval": 60000,
+    "worldCleanerInterval": 60000,
+    "droppedProductLife": 600000,
+    "dropProductOnDeath": true,
+    "dropProductOnDisconnect": true
+}

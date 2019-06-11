@@ -1,0 +1,10 @@
+{
+  "factory": {
+    "label": "Factory",
+    "blipSprite": 615
+  },
+  "buyer": {
+    "label": "Buyer",
+    "blipSprite": 616
+  }
+}

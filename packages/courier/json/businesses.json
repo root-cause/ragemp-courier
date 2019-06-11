@@ -1,0 +1,24 @@
+[
+  {
+    "type": "factory",
+    "productType": "beer",
+    "initialStock": 100,
+    "maxStock": 100,
+    "position": {
+      "x": 4.168992519378662,
+      "y": 12.795921325683594,
+      "z": 69.82928466796875
+    }
+  },
+  {
+    "type": "buyer",
+    "productType": "beer",
+    "initialStock": 0,
+    "maxStock": 20,
+    "position": {
+      "x": 29.61789321899414,
+      "y": 5.448328018188477,
+      "z": 69.10714721679688
+    }
+  }
+]

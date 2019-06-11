@@ -1,0 +1,87 @@
+{
+  "cigarette": {
+    "name": "Cigarettes",
+    "model": "prop_cardbordbox_02a",
+    "price": 60,
+    "profit": 1.15,
+    "businessTime": 240000,
+    "attachOffset": {
+      "x": 0.0,
+      "y": -0.18,
+      "z": -0.18
+    },
+    "attachRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  "beer": {
+    "name": "Beer",
+    "model": "v_ret_ml_beerpis1",
+    "price": 45,
+    "profit": 1.15,
+    "businessTime": 200000,
+    "attachOffset": {
+      "x": 0.0,
+      "y": -0.05,
+      "z": 0.0
+    },
+    "attachRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  "clothes": {
+    "name": "Clothes",
+    "model": "prop_tshirt_box_01",
+    "price": 80,
+    "profit": 1.25,
+    "businessTime": 300000,
+    "attachOffset": {
+      "x": -0.02,
+      "y": -0.2,
+      "z": -0.18
+    },
+    "attachRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    }
+  },
+  "paper": {
+    "name": "Paper",
+    "model": "prop_paper_box_04",
+    "price": 30,
+    "profit": 1.15,
+    "businessTime": 180000,
+    "attachOffset": {
+      "x": 0.03,
+      "y": -0.14,
+      "z": 0.06
+    },
+    "attachRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 90.0
+    }
+  },
+  "ammo": {
+    "name": "Ammunition",
+    "model": "gr_prop_gr_bulletscrate_01a",
+    "price": 300,
+    "profit": 1.2,
+    "businessTime": 600000,
+    "attachOffset": {
+      "x": 0,
+      "y": -0.18,
+      "z": -0.18
+    },
+    "attachRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  }
+}
